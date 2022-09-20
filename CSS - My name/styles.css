@@ -1,0 +1,104 @@
+.top-container {
+    background-color: #EEF1FF;
+    margin: auto;
+}
+body   {
+    text-align: center;
+}
+.top-cloud {
+    position: relative;
+    top: 10px;
+    left: 200px;
+}
+.heading {
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    bottom: 20px;
+    font-size: 2.5em;
+    line-height: 2px;
+    margin-top: 50px;
+}
+.heading2 {
+    font-family: 'Merriweather', serif;
+    font-size: normal;
+    color: #66BFBF;
+}
+.button-cloud {
+
+    position: relative;
+    right: 300px;
+}
+.button2-cloud {
+    position: relative;
+    top: 60px;
+    left: 200px;
+}
+.button3-cloud {
+    position: relative;
+    top: 80px;
+    right: 200px;
+}
+.gunung {
+    position: relative;
+    top: 5px;
+    width: 400px;
+}
+
+.gambarProfile{
+    width: 150px;
+    border-radius: 1000px;
+}
+
+
+.description{
+    color:darkslategray;
+}
+
+.myskill{
+    color:darkslategray;
+
+}
+.otherskill{
+    color:darkslategray;
+
+}
+.skill-row1{
+
+    width: 50%;
+    margin: 50px auto 50px auto;    
+}
+.kalimatDalamSkill1{
+
+    width: auto;
+
+}
+.skill-row2{
+    width: 50%;
+    margin: 50px auto 50px auto;
+}
+.kalimatDalamSkill2{
+   
+    width: auto;
+
+}
+.skills{
+    text-align: left;
+    line-height: 1;
+
+}
+
+.logoskill1{
+   
+    width: 150px;
+    border-radius: 1000px;
+    margin: auto auto 20px auto;
+    float: left;
+}
+.logoskill2{
+    width: 150px;
+    border-radius: 1000px;
+    margin: auto auto 20px auto;
+    float: left;
+
+
+}
